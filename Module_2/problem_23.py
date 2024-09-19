@@ -1,0 +1,1 @@
+# Write a program center_align.py to center align all lines in the given fil
